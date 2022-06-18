@@ -1,0 +1,38 @@
+id: I883F3190
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:30:34.980251'
+last_modified: '2022-06-19T04:30:34.980267'
+parser: null
+source_metadata:
+  title: Hagiography of sGa ston Ngag dbang legs pa (1864–1941); Lamdre Lobshe, vol.
+    nya, title no. 3
+  author: སྡེ་གཞུང་ཨ་འཇམ་སྤྲུལ་སྐུ་ཀུན་དགའ་བསྟན་པའི་རྒྱལ་མཚན།
+  description: 'Digital version 2.1 {Tibetan}; master xml (completed: 2013-09-09);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/583
+  bases:
+    e1c2:
+      title: Hagiography of sGa ston Ngag dbang legs pa (1864–1941); Lamdre Lobshe,
+        vol. nya, title no. 3
+      order: 1
+      base_file: e1c2.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
